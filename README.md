@@ -60,6 +60,3 @@ In the command line run follwing commands to compile and run the class
 2. java Test
 
 
-
-
-.
